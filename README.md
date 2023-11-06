@@ -1,2 +1,2 @@
 # Numerical-Analysis-Python
-This code performs numerical root-finding using three different methods (bisection method, Newton-Raphson method, and intersection method) to find the roots of a given mathematical function f(x).
+This repo includes code that is a collection of mathematical root-finding methods applied to different functions, with the results reported for various scenarios and accuracy levels. It allows you to compare the performance of different numerical methods in finding the roots of mathematical functions. Also there is code for solving systems of linear equations using PA=LU method and ofcourse there are polynomial approximations that best apply in a lot of scenarios , as shown in the code !
